@@ -1,3 +1,0 @@
-# Contributing to AdonisJS + React Starter Kit
-
-coming soon...

